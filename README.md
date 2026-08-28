@@ -1,6 +1,6 @@
 # Federico Santoro
 
-I enjoy building practical software, understanding how systems behave, debugging problems, and turning ideas into working tools.
+I like figuring out how things work — and, quite often, why they don't. Most of the projects I enjoy start from something I wanted to understand, fix, or build for myself.
 
 ## Currently working on
 
