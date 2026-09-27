@@ -5,4 +5,4 @@ I like figuring out how things work — and, quite often, why they don't. Most o
 ## Currently working on
 
 - [TurnForge](https://github.com/ToroFede/TurnForge) — a modern reconstruction of one of my first university programming projects: a terminal-based turn-based creature battle game written in C.
-- CrashScope — an early-stage project around Windows crash and stability analysis.
+- FaultWitness — an early-stage project around Windows crash and stability analysis.
